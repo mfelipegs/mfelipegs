@@ -7,7 +7,7 @@
 </div>
 
   ### About me
-  - 🇧🇷 I'm brazilian
+  - 🇧🇷 I'm brazilian, 18y
   - 💻 Developer, certificated at System Development
   - 📚 Currently: Multiplataform Software Development student at FATEC - Sao Paulo
   - 🌱 I like to learn about coding, GNU/Linux and Open Source, Cybersecurity, Data Analysis, Computer Networks and technology in general
