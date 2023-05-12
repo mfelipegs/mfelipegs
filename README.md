@@ -17,9 +17,7 @@
    <div style="display: flex" align="center">
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/82fe78e1-994f-4770-a2d1-7cce1d6c191c" />
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/8651b813-800d-4939-8696-1ddf39668520" />
-      <a href="https://www.credly.com/badges/d0de3f12-7da4-4d99-ab63-35162346dd11" target="_blank">
-        <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/910a463c-0ac2-4c41-830c-abb27afa0f6b" />
-      </a>
+      <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/910a463c-0ac2-4c41-830c-abb27afa0f6b" />
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/bb8b2ae4-c8e5-44c2-9842-06fc0a358711" />
    </div> 
   
