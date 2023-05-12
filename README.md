@@ -10,7 +10,7 @@
   - 🇧🇷 I'm brazilian, 19y
   - 💻 Certificated System Developer at ETEC de Registro, Sao Paulo
   - 📚 Currently: Multi-platform Software Development student at FATEC Registro, Sao Paulo
-  - 🌱 I like to learn about coding, GNU/Linux and Open Source, Cybersecurity, Data Analysis, Computer Networks and technology in general
+  - 🌱 I like to learn about coding, GNU/Linux and Open Source, Cloud, Cybersecurity, Computer Networks and technology in general
   - ⚡ Fun fact: I won a Team Fortress 2 game championship
   
  <hr>
