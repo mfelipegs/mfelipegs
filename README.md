@@ -13,14 +13,13 @@
   - 🌱 I like to learn about coding, GNU/Linux and Open Source, Cloud, Cybersecurity, Computer Networks and technology in general
   - ⚡ Fun fact: I won a Team Fortress 2 game championship
   
- <hr>
+  ### Badges
    <div style="display: flex" align="center">
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/82fe78e1-994f-4770-a2d1-7cce1d6c191c" />
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/8651b813-800d-4939-8696-1ddf39668520" />
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/910a463c-0ac2-4c41-830c-abb27afa0f6b" />
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/bb8b2ae4-c8e5-44c2-9842-06fc0a358711" />
    </div> 
- <hr>
   
   ### Technical Skills
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
