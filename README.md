@@ -4,7 +4,7 @@
   - 🎓 Technologist in Multiplatform Software Development at FATEC Registro, Sao Paulo
   - 🌱 I like to learn about coding, DevOps, Cloud Computing, GNU/Linux and technology in general
   - ⚡ Fun fact: I won a Team Fortress 2 game championship
-  
+
 ## Badges
    <div style="display: flex" align="center">
       <img height="180em" src="https://github.com/mfelipegs/mfelipegs/assets/104948713/82fe78e1-994f-4770-a2d1-7cce1d6c191c" />
@@ -46,15 +46,14 @@
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+
+## Recognitions
+
+- [Country Winner - Intel® AI Global Impact Festival 2024](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/winners2024.html#tab-blade-1-1)
+- [1st Place - Fatec Registro FTX'24](https://www.linkedin.com/in/matheus-felipe-gomes/details/certifications/1719510613311/single-media-viewer/?profileId=ACoAADn01KoBXrZTWpE7SiUnrCSmf0I13cQleME)
   
 ## Follow me on LinkedIn
   <p align="left">
     <a href="https://linkedin.com/in/matheus-felipe-gomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
   </p>
-
-## GitHub Stats
-<div align="center">
-  <a href="https://github.com/mfelipegs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfelipegs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfelipegs&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
